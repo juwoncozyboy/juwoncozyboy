@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juwoncozyboy
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... **MLE** **NLP**
 - 🌱 I’m currently learning ...**C** **Java** **Python** **SQL**
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... giantmax@naver.com
 <!---
 juwoncozyboy/juwoncozyboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
