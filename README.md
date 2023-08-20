@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juwoncozyboy
-- 👀 I’m interested in ... **MLE** **NLP**
+- 👀 I’m interested in ... 
 - 🌱 I’m currently learning ...**C** **Java** **Python** **SQL**
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... giantmax@naver.com
