@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juwoncozyboy
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...**C** **Java** **Python** **SQL**
+- 👀 I’m interested in ... Data Engineering , Data Science
+- 🌱 I’m currently learning ...**Python** **C** **Java** **SQL**
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... giantmax@naver.com
 <!---
