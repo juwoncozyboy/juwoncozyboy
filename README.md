@@ -8,7 +8,6 @@ juwoncozyboy/juwoncozyboy is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Pytorch](https://velog.velcdn.com/images/roqkfwk7lnam/post/ed25ccb4-223b-4d2d-ae84-b9aab9a0925c/image.png)
 ![Google_Colab](https://img.shields.io/badge/Google_Colab-F9AB00.svg?&style=for-the-badge&logo=Google_Colab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?&style=for-the-badge&logo=Visual_Studio_Code&logoColor=white)
