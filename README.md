@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... giantmax@naver.com
 - 🧑🏻‍💻 My activity is 
-   Myoungji University Data-Science conference FOM    2023.03 ~ 2024.02
+   <!---Myoungji University Data-Science conference FOM    2023.03 ~ 2024.02--->
    Naver Connect Boostcourse 2024 DSproject           2024.01 ~ 2024.02
    Naver Connect Boostcourse AI-engineers-precourse   2024.01 ~ 2024.02
 <!---
