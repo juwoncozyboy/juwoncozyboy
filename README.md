@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...**Python** **C** **Java** **SQL**
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... giantmax@naver.com
-- 🧑🏻‍💻 My activity is |d
-   Myoungji University Data-Science conference FOM    2023.03 ~ 2024.02
+- 🧑🏻‍💻 My activity is
+<br/>   Myoungji University Data-Science conference FOM    2023.03 ~ 2024.02
    Naver Connect Boostcourse 2024 DSproject           2024.01 ~ 2024.02
    Naver Connect Boostcourse AI-engineers-precourse   2024.01 ~ 2024.02
 <!---
