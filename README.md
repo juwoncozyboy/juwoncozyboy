@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... giantmax@naver.com
 - 🧑🏻‍💻 My activity is 
--- Myoungji University Data-Science conference FOM    2023.03 ~ 2024.02
--- Naver Connect Boostcourse 2024 DSproject           2024.01 ~ 2024.02
--- Naver Connect Boostcourse AI-engineers-precourse   2024.01 ~ 2024.02
+   Myoungji University Data-Science conference FOM    2023.03 ~ 2024.02
+   Naver Connect Boostcourse 2024 DSproject           2024.01 ~ 2024.02
+   Naver Connect Boostcourse AI-engineers-precourse   2024.01 ~ 2024.02
 <!---
 juwoncozyboy/juwoncozyboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
