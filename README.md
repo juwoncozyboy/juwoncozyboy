@@ -1,13 +1,17 @@
 - 👋 Hi, I’m @juwoncozyboy
-- 👀 I’m interested in ... Data Engineering , Data Science
+- 👀 I’m interested in ... Data Science, Data Engineering 
 - 🌱 I’m currently learning ...**Python** **C** **Java** **SQL**
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... giantmax@naver.com
 - 🧑🏻‍💻 My activity is ...
-<br/>   Myoungji University Data-Science conference FOM    2023.03 ~ 2024.02
-<br/>   Naver Connect Boostcourse 2024 DSproject           2024.01 ~ 2024.02
-<br/>   Naver Connect Boostcourse AI-engineers-precourse   2024.01 ~ 2024.02
-<br/>   지름 알림 Data Analyst                                2024.07 ~ Current
+<br/>   - Myoungji University Data-Science conference FOM
+<br/>   2023.03 ~ 2024.02
+<br/>   - Naver Connect Boostcourse 2024 DSproject
+<br/>   2024.01 ~ 2024.02
+<br/>   - Naver Connect Boostcourse AI-engineers-precourse
+<br/>   2024.01 ~ 2024.02
+<br/>   - 지름 알림 Data Analyst
+<br/>   2024.07 ~ Current
 <!---
 juwoncozyboy/juwoncozyboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
