@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juwoncozyboy
-- 👀 I’m interested in ... Data Science, Data Engineering 
+- 👀 I’m interested in ... Data Analysis, Data based Product Manager
 - 🌱 I’m currently learning ...**Python** **C** **Java** **SQL**
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... giantmax@naver.com
